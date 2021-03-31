@@ -1,3 +1,6 @@
 this is test file to edit
 pune is good city
 new job
+adding new lines to file to merge conflicts
+fskdklfkds
+dsfkdk
