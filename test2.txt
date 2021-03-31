@@ -1,1 +1,4 @@
 this is test file to edit
+adding new lines to file to merge conflicts
+fskdklfkds
+dsfkdk
